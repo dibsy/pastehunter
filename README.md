@@ -2,7 +2,7 @@
 ! Hunt those Pastes ! 
 
 ### What is PasteHunter ?
-PasteHunter is an automated tool to fetch pastes from pastebin to find leaked information, credentials, or any sensitive data which are already crawled by Google.
+PasteHunter is an automated tool to fetch pastes from pastebin to find leaked information, credentials, or any sensitive data in pastebin which are already crawled by Google.
 
 ### So why I created pastehunter ?
 So one day while playing with google dorks I ended up searching this particular dork  ```site:pastebin.com intext:some-juicy-info``` From the results I learnt that I can really pull up interesting data from pastebin ( urls, emails, credentials , and many more ) . I found some of my organizational information from there and I reported them to the incident response team. So I thought why dont I automate it ? Well thats the story behind it.
