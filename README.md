@@ -15,8 +15,15 @@ Installation
 ```
 pip3 install -r requirements.txt
 ```
-Usage : ```python3 app.py```
+Usage 
 ```
+In line 18 of app.py file,  change the search query to anything you wish to search
+for example i am interested with anything that has smtp.sendgrid.net , so I do this 
+
+query = "site:pastebin.com intext:smtp.sendgrid.net"
+
+save the file and run 
+
 mkdir raw
 python3 app.py
 
