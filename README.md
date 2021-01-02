@@ -17,7 +17,7 @@ pip3 install -r requirements.txt
 ```
 Usage : ```python3 app.py```
 ```
-
+mkdir raw
 python3 app.py
 
 Starting digging google to find juicy information about site:pastebin.com+intext:smtp.sendgrid.net
