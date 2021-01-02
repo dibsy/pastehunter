@@ -43,3 +43,4 @@ Fetching contents of https://pastebin.com/btJgmdZE
 
 The pastes will be stored in the raw/ directory
 ```
+<img src="poc-leaks.PNG">
