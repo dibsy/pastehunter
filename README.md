@@ -22,7 +22,9 @@ for example i am interested with anything that has smtp.sendgrid.net , so I do t
 
 query = "site:pastebin.com intext:smtp.sendgrid.net"
 
-save the file and run 
+Also you can set the number of results you want by following instruction on line 45
+
+finally save the file and run 
 
 mkdir raw
 python3 app.py
