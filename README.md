@@ -1,0 +1,2 @@
+# pastehunter
+Hunts for Pastes !
